@@ -157,6 +157,9 @@ The power supply contains a 5V and 6V stable power supply. The 6V power supply b
 
 ---
 
+## Team
+![Team](media/Team.jpg)
+
 ## Handling and Precautions
 
 - Device contains ESD-sensitive RF components
@@ -166,11 +169,13 @@ The power supply contains a 5V and 6V stable power supply. The 6V power supply b
 
 ---
 
+
 ## Disclaimer
 
 This product is intended for educational and experimental use only. It is not a calibrated RF power measurement instrument. Specifications are subject to change without notice.
 
 ---
+
 
 **Department of Electronic & Telecommunication Engineering**  
 **University of Moratuwa, Sri Lanka**
