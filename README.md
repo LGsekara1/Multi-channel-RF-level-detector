@@ -115,6 +115,8 @@ The device is intended for educational, laboratory, and experimental RF applicat
 ### Power Supply Design
 ![Power Supply](media/schematic_page8.png)
 
+The power supply contains a 5V and 6V stable power supply. The 6V power supply being a 7806 regulator IC as the LNA requires a firm supply voltage. And the 5V supply was designed with a series transitor with a feedback with a TL431 as the reference voltage. This formation was selected because, the negative feedback maintains a relatively stable output of 5V and heat generation is minimum due to less current through series resistor in input branch.
+
 ---
 
 ## PCB Layout
