@@ -34,7 +34,7 @@ The device is intended for educational, laboratory, and experimental RF applicat
 
 ## Functional Block Diagram
 
-![Block Diagram](media/schematic_page18.png)
+![Block Diagram](media/schematic_page18.jpg)
 
 ---
 
@@ -120,22 +120,22 @@ The device is intended for educational, laboratory, and experimental RF applicat
 ## PCB Layout
 
 ### Top Layer
-![Top Layer](media/schematic_page9.png)
+![Top Layer](media/schematic_page9.jpg)
 
 ### RF Ground Layer (Layer 2)
-![RF GND Layer](media/schematic_page14.png)
+![RF GND Layer](media/schematic_page14.jpg)
 
 ### PCB Ground Layer (Layer 3)
-![PCB GND Layer](media/schematic_page10.png)
+![PCB GND Layer](media/schematic_page10.jpg)
 
 ### Bottom Layer
-![Bottom Layer](media/schematic_page11.png)
+![Bottom Layer](media/schematic_page11.jpg)
 
 ### PCB Stack-Up
-![PCB Stackup](media/schematic_page12.png)
+![PCB Stackup](media/schematic_page12.jpg)
 
 ### 3D PCB View
-![3D View](media/schematic_page13.png)
+![3D View](media/schematic_page13.jpg)
 
 ---
 
@@ -151,7 +151,7 @@ The device is intended for educational, laboratory, and experimental RF applicat
 
 ## Final Product
 
-![Final Product](media/schematic_page17.png)
+![Final Product](media/schematic_page17.jpg)
 
 ---
 
