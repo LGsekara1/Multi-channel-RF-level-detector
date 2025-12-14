@@ -157,7 +157,13 @@ The power supply contains a 5V and 6V stable power supply. The 6V power supply b
 
 ---
 
-## Team
+## Team MOSFET
+The project is developed and maintained by;
+  1. Lakindu Gunasekara [@LGsekara1](https://github.com/angstrom10)
+  2. Sithum Peiris [@angstrom10](https://github.com/angstrom10)
+  3. Hiruna Kariyawasam [@HirunaK](https://github.com/HirunaK)
+  4. Chathuka Elapatha [@Chippy1520](https://github.com/Chippy1520)
+
 ![Team](media/Team.jpg)
 
 ## Handling and Precautions
