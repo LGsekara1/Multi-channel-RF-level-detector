@@ -13,7 +13,7 @@ The device is intended for educational, laboratory, and experimental RF applicat
 
 ## Key Features
 
-- Dual-band RF detection: 433 MHz and 915 MHz frequencies
+- Dual-band RF detection: 433 MHz and 915 MHz
 - Logarithmic RF power detection
 - Multi-level LED signal strength indication
 - RF-optimized PCB layout
